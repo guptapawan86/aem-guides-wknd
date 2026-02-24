@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root 
+    xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Component"
+    jcr:title="Byline-LY"
+    jcr:description="Displays a contributor's byline."
+    componentGroup="WKND.Content"
+    sling:resourceSuperType="core/wcm/components/image/v3/image" />
+    # is able to inherit from the core image component to reuse the image dialog and rendering logic, but it can be extended with additional properties and functionality specific to the byline component.
