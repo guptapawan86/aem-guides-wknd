@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
  */
 public interface ImageList {
 
-    /**
+    /**dddd
      * @return a collection of objects representing the items that compose the the list.
      */
     Collection<ImageList.ListItem> getListItems();
