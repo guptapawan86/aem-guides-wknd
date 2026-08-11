@@ -7,7 +7,7 @@ import java.util.Collection;
 import com.adobe.cq.wcm.core.components.models.datalayer.ComponentData;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-/**
+/**dddd
  * Represents the WKND Image List Component
  */
 public interface ImageList {
